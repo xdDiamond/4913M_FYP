@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World for Alan Po and Kenneth Tsang 
 
 HIHIHIHI
+=======
+Hello World for Alan Po and Kenneth Tsang and Ada 
+>>>>>>> upstream/master
